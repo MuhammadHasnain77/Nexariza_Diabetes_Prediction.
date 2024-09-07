@@ -4,3 +4,4 @@ Build a ML Model which classify the diabetic and non-diabetic patients.
 - Learn support vector machine classification model
 - Learn Streamlit module for making web page and to deploy ML model.
 - Familiarize myself with google colab.
+- Learn spyder to built ML websites.
